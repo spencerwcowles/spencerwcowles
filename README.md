@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 📫 You can reach me at: **spencerwcowles@gmail.com**
+- 📫 You can reach me by email: **spencerwcowles@gmail.com**
 
 - 📄 Know about my experiences by taking a look at my [resume](https://drive.google.com/file/d/1ePgX5aU81Al7BFD2HRUVAbBiRx1WyjWl/view?usp=sharing)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/spencercowles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spencercowles" height="30" width="40" /></a>
 <a href="https://instagram.com/spencercowles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spencercowles" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/spencerwcowles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spencerwcowles" height="30" width="40" /></a>
 </p>
