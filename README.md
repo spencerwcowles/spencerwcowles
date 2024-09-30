@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
 <h3 align="center">A passionate Computer Science student from Phoenix, Arizona</h3>
 
-- 🔭 I’m currently working on **my BS at UCSD in Mathematics&CS**
+- 🔭 I’m currently working on **my B.S. at UCSD in Mathematics & CS**
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 📫 How to reach me **spencerwcowles@gmail.com**
+- 📫 You can reach me at: **spencerwcowles@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ePgX5aU81Al7BFD2HRUVAbBiRx1WyjWl/view?usp=sharing](https://drive.google.com/file/d/1ePgX5aU81Al7BFD2HRUVAbBiRx1WyjWl/view?usp=sharing)
+- 📄 Know about my experiences by taking a look at my [resume](https://drive.google.com/file/d/1ePgX5aU81Al7BFD2HRUVAbBiRx1WyjWl/view?usp=sharing)
 
-- ⚡ Fun fact **I love rock climbing and running in my free time!**
+- ⚡ Fun fact: **I love rock climbing and running in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
