@@ -1,6 +1,7 @@
-# 💫 About Me:
-🎓 I'm currently a 2nd year Math&CS student at UCSD...<br>📔 Currently involved with organizations like Triton Consulting Group !<br>🖥️ Trying to break into software engineering!<br><br>🏃 In my free time I love to run!
+# 🏃‍♂️ About Me:
+I’m a Math & CS student at UC San Diego, passionate about blending technical precision with creative problem-solving. Either it be for my computer science classes or my work with clubs that I'm involved with, I love creating solutions to interesting problems. I'm currently active in clubs like Triton Consulting Group @ UCSD!
 
+Outside of coding, I love playing basketball, going on runs, and listening to music! Feel free to message me on my socials about any of these!!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spencercowles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spencerwcowles@gmail.com) 
