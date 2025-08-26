@@ -4,7 +4,7 @@ I’m a Math & CS student at UC San Diego, passionate about blending technical p
 Outside of coding, I love playing basketball, going on runs, and listening to music! Feel free to message me on my socials about anything!!
 
 ## 🧑‍💻 What I'm Working On:
-I'm currently working as a Full Stack Development Intern at BusinessRate creating full stack apps using things like Typescript, Prisma, and Postgres, and I am in the process of learning Go!
+I'm currently working as a `Full Stack Development Intern` at <ins>__BusinessRate__</ins> creating full stack apps using things like `Typescript`, `Prisma`, and `Postgres`, and I am in the process of learning Go!
 
 Check out [my website](https://spencercowles.com) :)
 
