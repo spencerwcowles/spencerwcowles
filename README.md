@@ -7,10 +7,10 @@
 <div align="left">
     <h2>About Me</h2>
     <p>
-        I'm Spencer Cowles, a student at UCSD passionate about software engineering, math, and the web!<br>
+        I'm Spencer Cowles, a student at UCSD passionate about software engineering, math, and the web. Originally from Phoenix, AZ, I love to listen to music, play basketball, and go outside in my free time!<br>
     </p>
     <p>
-      Check out <a href="https://spencercowles.com">my website</a> :)
+      Check out <a href="https://spencercowles.com">my website</a> :) or connect with me on <a href="https://www.linkedin.com/in/spencercowles/">linkedin</a>
     </p>
 </div>
 
