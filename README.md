@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
     <h1>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3300&color=42a0cf&center=true&vCenter=true&width=600&lines=Hey+I'm+Spencer;Check+out+my+GitHub!;" alt="Typing SVG"/>
     </h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h2>About Me</h2>
     <p>
         I'm Spencer Cowles, a student at UCSD passionate about software engineering, math, and the web!<br>
@@ -14,7 +14,7 @@
     </p>
 </div>
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="left">My Tech Stack</h2>
 
 
 <p align="center">
